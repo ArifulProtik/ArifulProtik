@@ -3,7 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=ArifulProtik&color=blue)&nbsp;
 [![GitHub Arifulprotik](https://img.shields.io/github/followers/ArifulProtik?label=follow&style=social)](https://github.com/ArifulProtik)&nbsp;
 
-&nbsp;I am a software developer and desgn enthusiastic. I build web applications and automation scripts. 
+&nbsp;I am a software developer and design enthusiastic. I build web applications and automation scripts. 
 ### 🛠 &nbsp;Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
