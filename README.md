@@ -3,7 +3,9 @@
 ![profile count](https://komarev.com/ghpvc/?username=ArifulProtik&color=blue)&nbsp;
 [![GitHub Arifulprotik](https://img.shields.io/github/followers/ArifulProtik?label=follow&style=social)](https://github.com/ArifulProtik)&nbsp;
 
-&nbsp;I am a software developer and design enthusiastic. I build web applications and automation scripts. 
+&nbsp; I am a tech enthusiast with a deep passion for programming and problem-solving. I enjoy writing code and am always eager to explore new ideas and technologies. Over the past six years, my programming journey has taught me how to think critically, learn quickly, identify issues, and effectively address challenges.
+
+In addition to my professional interests, I have a strong enthusiasm for bug hunting and CTF (Capture The Flag) challenges, which I pursue as a hobby. I take pride in being a cheerful and optimistic individual, ready to embrace real-world challenges and strive for growth and success in life.
 ### 🛠 &nbsp;Tech Stack
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
